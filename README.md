@@ -22,12 +22,8 @@ Hello, my name is Bonnal Nathael, a final year high school student in the Genera
 # 🚀 The technology I use
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ea2845?style=flat-square&logo=python&logoColor=white" />
-  <img alt="InteliJ IDEA" src="https://img.shields.io/badge/-InteliJ-000000?style=flat-square&logo=intellij%20idea&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=HTML&logoColor=white" />
 </p>
 
 <br/>
