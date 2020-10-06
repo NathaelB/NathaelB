@@ -22,7 +22,7 @@ Hello, my name is Bonnal Nathael, a final year high school student in the Genera
 # 🚀 The technology I use
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ea2845?style=flat-square&logo=java&logoColor=white" />
   <img alt="InteliJ IDEA" src="https://img.shields.io/badge/-InteliJ-000000?style=flat-square&logo=intellij%20idea&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -54,7 +54,7 @@ Hello, my name is Bonnal Nathael, a final year high school student in the Genera
 
 [![twitter](https://img.shields.io/twitter/follow/GeoffreyH_?color=%231DA1F2&label=Join%20us&logo=Twitter&style=for-the-badge)](https://twitter.com/ByxusMC_Net)
 [![discord](https://img.shields.io/static/v1?label=Discord&message=discord.byxus.net&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.byxus.net/)
-[![website](https://img.shields.io/static/v1?label=Website&message=www.geoffreyh.be&color=green&labelColor=darkgreen&style=for-the-badge)](https://www.byxus.net)
+[![website](https://img.shields.io/static/v1?label=Website&message=www.nathaelb.fr&color=green&labelColor=darkgreen&style=for-the-badge)](https://www.byxus.net)
 
 <br/>
 <br/>
