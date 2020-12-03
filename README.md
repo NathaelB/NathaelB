@@ -1,11 +1,9 @@
-# 👋 Welcome to the NathaelB github
-<br/>
-<br/>
+
+<h1 align="center">Hi 👋, Welcome to the NathaelB Github</h1>
+<h3 align="center">I am passionate about digital development and photography</h3>
 
 ---
 
-<br/>
-<br/>
 
 # Web, Python developer.
 
