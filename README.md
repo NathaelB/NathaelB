@@ -2,27 +2,19 @@
 <h1 align="center">Hi 👋, Welcome to the NathaelB Github</h1>
 <h3 align="center">I am passionate about digital development and photography</h3>
 
----
 
+# Who am I ?
 
-# Web, Python developer.
-
-Hello, my name is Bonnal Nathael, a final year high school student in the General stream, a real fan of development and IT, I am learning Web & Python development with my friends
-
-<br/>
-<br/>
+Hello, my name is Bonnal Nathaël, I am 17 years old and I am in terminal. I am currently training in fullstack web development, in the dream of making it my job.
 
 ---
 
 <br/>
 <br/>
 
-# 🚀 The technology I use
+# 🚀 My Skills
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-47A248?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-003545?style=flat-square&logo=html&logoColor=white" />
-</p>
+![HTML](https://img.shields.io/badge/HTML-F16529?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge)
 
 <br/>
 <br/>
