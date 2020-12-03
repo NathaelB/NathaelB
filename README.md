@@ -7,9 +7,6 @@
 
 Hello, my name is Bonnal Nathaël, I am 17 years old and I am in terminal. I am currently training in fullstack web development, in the dream of making it my job.
 
----
-
-<br/>
 <br/>
 
 # 🚀 My Skills
@@ -17,7 +14,10 @@ Hello, my name is Bonnal Nathaël, I am 17 years old and I am in terminal. I am 
 ![HTML](https://img.shields.io/badge/HTML-F16529?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge)
 
 <br/>
-<br/>
+
+## 🧵 Tools
+
+![PyCharm_Logo svg](https://user-images.githubusercontent.com/49725253/89103933-dc153300-d415-11ea-8edd-77f114799102.png)![intellij-idea](https://user-images.githubusercontent.com/49725253/89103936-dcadc980-d415-11ea-83b7-b7d61050c2d6.png)
 
 ---
 
