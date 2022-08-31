@@ -1,23 +1,37 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-# Bonnal Nathael
-I'm Nathael from France, living in Montpellier 🌟, Typescript engineer, a real enthusiast for mathematics, algorithms but also for photography. Besides that, I am specialized in web development, with AdonisJS VueJs and PostgreSQL
+# 👋 Hi there !
+My name is Bonnal Nathael, I currently live in Montpellier 🌟. I am a software engineer, very passionate about mathematics and science in general. 
+I use AdonisJS for my backend and ReactJS for my frontend.
 
 Currently:
 - ⚙️ I am developing my new <a href="https://nathaelb.fr">website</a>
 - 📚 Student in computer science and mathematics
-- 🚀 Designing an open-source bot in typescript
+- 🚀 Collaborator on several open source projects:
+  - [Mineral](https://github.com/mineral-dart)
+  - [Leadcode](https://github.com/leadcode-solutions)
+  - [Discord Factory](https://github.com/DiscordFactory/)
+
+# 🚀 My Stack
+- [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [AdonisJS](https://preview.adonisjs.com/)
+- Database : [PostgreSQL](https://www.postgresql.org)
+- CSR : [VueJS](https://vuejs.org/) [ReactJS](https://reactjs.org/)
+- SSR : [NuxtJS](https://nuxtjs.org/) [NextJS](https://nextjs.org/)
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=NathaelB&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaelB&layout=compact)
 
 ## Contact me
 
-[![img_contact](./img/globe-light.svg)](https://nathaelb.fr#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://nathaelb.fr#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](https://leadcode.fr#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://leadcode.fr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/NathaelBonnal#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/NathaelBonnal#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/nathael-bonnal-938a511b5#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nathael-bonnal-938a511b5#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/nathael-bonnal#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nathael-bonnal#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://www.instagram.com/nathael.bnl#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/nathael.bnl#gh-dark-mode-only)
@@ -27,6 +41,7 @@ Currently:
 
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Adonis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
