@@ -1,11 +1,14 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 # 👋 Hi there !
-My name is Bonnal Nathael, I currently live in Montpellier 🌟. I am a software engineer, very passionate about mathematics and science in general. 
-I use AdonisJS for my backend and ReactJS for my frontend.
+Hello my name is Bonnal Nathaël, I currently live in Montpellier 🌟. I'm currently a student in computer science at the University of Montpellier. I develop various projects around the tech like web application development, research and development to improve my products.
+
+I am passionate about computer science and mathematics, I love to learn and deepen my knowledge. 
+
+You can find mini-projects on my Github which mixes mathematics and programming where I use various languages such as Typescript, Rust, C++ or OCaml to put my theoretical knowledge into practice! 🚀
 
 Currently:
-- ⚙️ I am developing my new <a href="https://nathaelb.fr">website</a>
+- ⚙️ I'm learning C++ and Rust
 - 📚 Student in computer science and mathematics
 - 🚀 Collaborator on several open source projects:
   - [Mineral](https://github.com/mineral-dart)
@@ -16,8 +19,7 @@ Currently:
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - [AdonisJS](https://adonisjs.com/)
 - Database : [PostgreSQL](https://www.postgresql.org)
-- CSR : [VueJS](https://vuejs.org/) [ReactJS](https://reactjs.org/)
-- SSR : [NuxtJS](https://nuxtjs.org/) [NextJS](https://nextjs.org/)
+- React, Typescript, NextJS & NX
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=NathaelB&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaelB&layout=compact)
@@ -42,7 +44,6 @@ Currently:
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Adonis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
@@ -50,6 +51,7 @@ Currently:
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Rust" width="26px" src="http://rust-lang.org/logos/rust-logo-128x128-blk-v2.png" style="padding-right:10px;" />
 <img align="left" alt="OCaml" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgre" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
