@@ -14,7 +14,7 @@ Currently:
   - [Mineral](https://github.com/mineral-dart)
   - [Leadcode](https://github.com/leadcode-solutions)
 
-# 🚀 Mes technologies
+# 🚀 my technologies
 - ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
   ![NX](https://img.shields.io/badge/NX-007ACC?style=for-the-badge&logo=nx&logoColor=white)
