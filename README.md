@@ -3,22 +3,23 @@
 # 👋 Hi there !
 Hello my name is Bonnal Nathaël, currently a DevOps student at Polytech Montpellier 🌟. I'm developing various projects around tech, and I'm passionate about IT in areas like cloud, web, research. 
 
-Today I'm putting all my skills to the test at OOMADE as a DevOps Engineer!
+Today I'm putting all my skills to the test at OOMADE and Hypolia as a DevOps Engineer!
 
-You can find mini-projects on my Github which mixes mathematics and programming where I use various languages such as Typescript, Rust, Kotlin or OCaml to put my theoretical knowledge into practice! 🚀
+You can find projects on my Github which mixes mathematics and programming where I use various languages such as Typescript, Rust, Kotlin or OCaml to put my theoretical knowledge into practice! 🚀
 
 Currently:
 - ⚙️ I work for OOMADE
 - 📚 Student in computer science and mathematics
 - 🚀 Collaborator on several open source projects:
   - [Mineral](https://github.com/mineral-dart)
-  - [Leadcode](https://github.com/leadcode-solutions)
+  - [Hypolia](https://github.com/Hypolia)
 
 # 🚀 my technologies
 - ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
   ![NX](https://img.shields.io/badge/NX-007ACC?style=for-the-badge&logo=nx&logoColor=white)
-  ![AdonisJS](https://img.shields.io/badge/AdonisJS-6701F2?style=for-the-badge&logo=adonisjs&logoColor=white)
+  ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  
   
 - ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -26,7 +27,7 @@ Currently:
   ![Rust](https://img.shields.io/badge/Rust-FF5733?style=for-the-badge&logo=rust&logoColor=white)
   ![Helm](https://img.shields.io/badge/Helm-2CA5E0?style=for-the-badge&logo=helm&logoColor=white)
   
-- ![Quarkus](https://img.shields.io/badge/Quarkus-F22B01?style=for-the-badge&logo=quarkus&logoColor=white)
+- ![AdonisJS](https://img.shields.io/badge/AdonisJS-6701F2?style=for-the-badge&logo=adonisjs&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
 
