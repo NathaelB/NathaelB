@@ -12,7 +12,7 @@ Currently:
 - 📚 Student in computer science and mathematics
 - 🚀 Collaborator on several open source projects:
   - [Mineral](https://github.com/mineral-dart)
-  - [Hypolia](https://github.com/Hypolia)
+  - [LibreConnect](https://github.com/libreconnect)
 
 # 🚀 my technologies
 - ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
