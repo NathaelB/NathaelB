@@ -8,7 +8,7 @@ Today I'm putting all my skills to the test at ParcelChain and Libreconnect as a
 You can find projects on my Github which mixes mathematics and programming where I use various languages such as Typescript, Rust, Kotlin or OCaml to put my theoretical knowledge into practice! 🚀
 
 Currently:
-- ⚙️ I work for OOMADE
+- ⚙️ I work for ParcelChain
 - 📚 Student in computer science and mathematics
 - 🚀 Collaborator on several open source projects:
   - [Mineral](https://github.com/mineral-dart)
