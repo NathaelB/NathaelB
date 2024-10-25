@@ -3,7 +3,7 @@
 # 👋 Hi there !
 Hello my name is Bonnal Nathaël, currently a DevOps student at Polytech Montpellier 🌟. I'm developing various projects around tech, and I'm passionate about IT in areas like cloud, web, research. 
 
-Today I'm putting all my skills to the test at OOMADE and Hypolia as a DevOps Engineer!
+Today I'm putting all my skills to the test at ParcelChain and Libreconnect as a Software Engineer!
 
 You can find projects on my Github which mixes mathematics and programming where I use various languages such as Typescript, Rust, Kotlin or OCaml to put my theoretical knowledge into practice! 🚀
 
