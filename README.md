@@ -3,16 +3,18 @@
 # 👋 Hi there !
 Hello my name is Bonnal Nathaël, currently a DevOps student at Polytech Montpellier 🌟. I'm developing various projects around tech, and I'm passionate about IT in areas like cloud, web, research. 
 
-Today I'm putting all my skills to the test at ParcelChain and Libreconnect as a Software Engineer!
+Today I'm putting all my skills to the test at Nudibranches and CrabyWave as a Software Engineer!
 
 You can find projects on my Github which mixes mathematics and programming where I use various languages such as Typescript, Rust, Kotlin or OCaml to put my theoretical knowledge into practice! 🚀
 
 Currently:
-- ⚙️ I work for ParcelChain
+- ⚙️ I work for [Nudibranches Technologies](https://nudibranches.tech)
 - 📚 Student in computer science and mathematics
 - 🚀 Collaborator on several open source projects:
   - [Mineral](https://github.com/mineral-dart)
   - [LibreConnect](https://github.com/libreconnect)
+  - [Crabywave](https://github.com/crabywave-inc)
+  - [Archery](https://github.com/archery-progress)
 
 # 🚀 my technologies
 - ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
