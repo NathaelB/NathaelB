@@ -3,18 +3,18 @@
 # 👋 Hi there !
 Hello my name is Bonnal Nathaël, currently a DevOps student at Polytech Montpellier 🌟. I'm developing various projects around tech, and I'm passionate about IT in areas like cloud, web, research. 
 
-Today I'm putting all my skills to the test at Nudibranches and CrabyWave as a Software Engineer!
+Today I'm putting all my skills to the test at Nudibranches and FerrisKey as a Software Engineer!
 
-You can find projects on my Github which mixes mathematics and programming where I use various languages such as Typescript, Rust, Go or OCaml to put my theoretical knowledge into practice! 🚀
+You can find projects on my Github which mixes mathematics and programming where I use various languages such as Rust, Typescript, Go or OCaml to put my theoretical knowledge into practice! 🚀
 
 Currently:
 - ⚙️ I work for [Nudibranches Technologies](https://nudibranches.tech)
 - 📚 Student in computer science and mathematics
 - 🚀 Collaborator on several open source projects:
+  - [FerrisKey](https://github.com/ferriskey/ferriskey)
   - [Mineral](https://github.com/mineral-dart)
   - [LibreConnect](https://github.com/libreconnect)
   - [Crabywave](https://github.com/crabywave-inc)
-  - [Archery](https://github.com/archery-progress)
 
 
 ## What languages do I use ?
