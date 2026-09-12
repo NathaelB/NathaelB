@@ -1,35 +1,41 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-# 👋 Hi, I'm Nathael
-Software Engineer & DevOps Engineer (Rust Enthusiast) - Cloud Native Builder
-Currently building the future of IAM at Cloud IAM ☁️🔐
+# Nathael Bonnal
+Software Engineer focused on Identity & Access Management, Rust, and distributed systems.
 
-## 🚀 What I'm Working On
+Building IAM infrastructure at [Cloud-IAM](https://cloud-iam.com). Creator and maintainer of [FerrisKey](https://github.com/ferriskey/ferriskey).
 
-### 🦀 FerrisKey — Rust-based IAM Platform
-Open-source alternative to Keycloak, designed for performance, scalability, and multi-tenant identity management.
+---
 
-### ☁️ FerrisCloud — Open-Source Cloud Platform
-Hybrid cloud ecosystem built with Kubernetes, GitOps, Rust micro-services, and operators.
+## Projects
 
-### ❤️‍🩹 FerrisHealth — Personal Health AI & Monitoring
-A Rust + React platform focused on health data, journaling, ML insights, and secure data storage.
+### [FerrisKey](https://github.com/ferriskey/ferriskey), an IAM platform in Rust
+Open source, Keycloak compatible identity provider built around hexagonal architecture and strict static dispatch. Designed for multi tenant deployments where correctness and performance both matter, with no dynamic dispatch overhead and no runtime surprises. Apache 2.0, running in production at Cloud-IAM.
 
+### [Aether](https://github.com/nathaelb/aether), an open source IAM as a Service platform in Rust
+Fully open source IAM as a Service platform. Where FerrisKey is the identity engine itself, Aether targets the "as a service" layer: infrastructure and operations designed to be run as a managed offering rather than self hosted.
 
-## 🛠️ Tech I use (and love)
-![icons technologies](https://skillicons.dev/icons?i=rust,ts,go)
+### [Mestier](https://github.com/ferrislabs/mestier), an open source ERP/CRM
+SaaS oriented ERP/CRM with native support for French e-invoicing compliance, a regulatory requirement most tools bolt on as an afterthought but that's built into the foundation here.
 
-![icons technologies](https://skillicons.dev/icons?i=grafana,tailwind,nodejs,adonis,react,kafka,rabbitmq,redis,docker,kubernetes,git,postgres,gcp,prometheus&perline=9)
+### [FerrisKV](https://github.com/ferrislabs/ferriskv), a distributed key value store
+Raft based consensus and replication in Rust. My focus is on the consensus and replication layer itself, the part where getting it almost right is the same as getting it wrong.
 
-## 🌊 Philosophy
+---
 
-I love designing scalable systems, developer-friendly platforms, and secure cloud architectures.
-Everything I build follows a simple rule: open-source first, developer experience always.
+## Stack
 
+![](https://skillicons.dev/icons?i=rust,go,ts)
 
-## 📫 Connect with me
+![](https://skillicons.dev/icons?i=kubernetes,docker,postgres,redis,kafka,rabbitmq,grafana,prometheus,gcp&perline=9)
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/nathael-bonnal)
-- [🦀 FerrisKey Discord](https://discord.gg/WVV5rq8ANb)
+## Philosophy
+
+Hexagonal architecture, strict typing, memory safety, simulation driven development. Open source by default. If a system can't be tested in isolation from its infrastructure, it isn't designed yet.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/nathael-bonnal)
+- [FerrisKey Discord](https://discord.gg/WVV5rq8ANb)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nathaelb&theme=vue)](https://git.io/streak-stats)
